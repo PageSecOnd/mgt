@@ -1,2 +1,0 @@
-# mgt
-Motion Graphic Typeface
