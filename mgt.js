@@ -499,7 +499,7 @@ vertex3d.prototype = {
 		};
 	};
 	var textSet = [
-		{text:"GOD", sphereRadius:140, sphereSpace:80, unitTime:100, time:1000},
+		{text:"周	", sphereRadius:140, sphereSpace:80, unitTime:100, time:1000},
 		{text:"FATHER", sphereRadius:120, sphereSpace:70, unitTime:120, time:4000},
 		{text:"GOD_FATHER", sphereRadius:120, sphereSpace:70, unitTime:50, time:2000},
 		{text:"THIS IS", sphereRadius:120, sphereSpace:70, unitTime:100, time:4000},
